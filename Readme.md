@@ -1,6 +1,7 @@
 <h1> This is a repository for the projects files of STM32_HAL tutorials in sisoog.com </h1>
 <b> all projects are generated and developed using STM32CubeIDE (with HAL drivers) </b> </br>
- 
+ <pre>
+ </pre>
   <b> Projects in this repository: </b> <pre>
   - 04-Debug                               [link for the associated article in sisoog.com]()
   - 05-GPIO (Blink)                        [link for the associated article in sisoog.com]()
